@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ylokhande2003&label=Profile%20views&color=0e75b6&style=flat" alt="ylokhande2003" /> </p>
 
 - 📫 How to reach me **yashlokhande20@gmail.com**
-- 📫 My  Portfolio **https://ylokhande2003.github.io/Portfolio_/**
+- 📫 My  Portfolio **https://ylokhande2003.github.io/Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
