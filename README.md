@@ -1,3 +1,4 @@
+![logo](https://github.com/ylokhande2003/ylokhande2003/blob/main/linkdin.jpg)
 <h1 align="center">Hi 👋, I'm Yash Lokhande</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Frontend Developer | Backend Developer</h3>
 
