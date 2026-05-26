@@ -1,4 +1,4 @@
-![logo](https://github.com/ylokhande2003/ylokhande2003/blob/main/linkdin.jpg)
+![logo](https://github.com/ylokhande2003/ylokhande2003/blob/main/React.js%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot.png)
 <h1 align="center">Hi 👋, I'm Yash Lokhande</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Frontend Developer | Backend Developer</h3>
 
