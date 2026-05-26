@@ -28,7 +28,7 @@ Building scalable web applications using MERN Stack, Java Spring Boot & Modern F
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yash-lokhande">
+<a href="https://linkedin.com/in/yashlokhande20">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://instagram.com/_yash___20">
